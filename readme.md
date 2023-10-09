@@ -1,5 +1,6 @@
 # ABOUT
 If you need to provide a file downloader, and use Patreon for your payment subscriptions.
+This is probably not the best way to approach this. It's several years old, but works with Patreon's v2 API.
 
 # PHP Server Setup
 
